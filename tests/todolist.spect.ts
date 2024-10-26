@@ -26,7 +26,7 @@ test.describe("Suite de pruebas",() => {
         await taskPage.addTask('Nueva tarea');
         await taskPage.completeTask('Nueva tarea');
         
-        // Verificar que la tarea está marcada como completada (verificamos usando el icono de completada)
+        // Validar que la tarea está marcada como completada
         await expect(page.locator('span:has-text("check_box Nueva tarea")')).toBeVisible();
     });
 
