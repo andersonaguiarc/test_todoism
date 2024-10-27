@@ -1,4 +1,4 @@
-# Proyecto de Pruebas Automatizadas con Playwright: Simulador de batallas Pokemón
+# Proyecto de Pruebas Automatizadas con Playwright: Aplicación TODO
 
 El propósito de este proyecto es automatizar la ejecución de pruebas de software utilizando la herramienta Playwright. La ejecución se realizará sobre la aplicación TODO ubicada en el repositorio https://github.com/andersonaguiarc/todoism
 
